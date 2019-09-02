@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Bungie's website to access Destiny 2](www.bungie.com)
